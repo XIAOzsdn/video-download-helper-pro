@@ -66,6 +66,7 @@
 
 ### 2. 安装本地 FFmpeg 桥接（可选）
 FFmpeg本地文件下载地址：https://github.com/motrixapp/ffmpeg-static/releases/tag/v9.0.2-motrix.8
+
 不装也能用，脚本会自动回退到浏览器内合并。
 
 1. `node -v` 确认已安装 Node.js。
